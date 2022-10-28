@@ -53,7 +53,7 @@ def find_empty(board):
 
 
 
-print("Solved board:")
+print("Below is the solved board:")
 soduku_solver(board)
 display_board(board)
 
